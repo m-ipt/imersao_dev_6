@@ -1,0 +1,101 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    text-align: center;
+    background-image: url("https://caelum-online-public.s3.amazonaws.com/assets-imersaodev/background-aluraflix.png");
+    background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    padding: 20px;
+    margin: auto;
+  }
+  
+  p {
+    color: #ffffff;
+    display: inline-block;
+    box-sizing: border-box;
+  }
+  
+  .container_todosFilmes p {
+    text-transform: capitalize;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    display: block;
+    flex-direction: column;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  body > img {
+    margin: 0 10px;
+  }
+  
+  .form-wrapper {
+    display: block;
+    padding: auto;
+  }
+  
+  .form-wrapper input {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 15px;
+  }
+  
+  #mensagemDeErro{
+    color: red;
+  }
+  
+  .form-wrapper button {
+    border: 0;
+    color: #ffffff;
+    background: #da1e26;
+    font-weight: bold;
+    padding: 15px 20px;
+    font-size: 16px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .form-wrapper button:hover {
+    opacity: 0.8;
+  }
+  
+  img {
+    max-height: 250px;
+    max-width: 100%;
+  }
+  
+  .nomesFilmes {
+    text-align: center;
+  }
+  
+  .container_todosFilmes {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .container_todosFilmes p {
+    display: block;
+  }

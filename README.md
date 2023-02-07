@@ -32,6 +32,7 @@ Hospedados no CodePen.io:
 - [Conversor galático](https://codepen.io/mipt/pen/XWBPaNY)
 - [Conversor de temperatura](https://codepen.io/mipt/pen/poZOpBK)
 - [Mentalista](https://codepen.io/mipt/pen/dyjgVKp)
+- [Aluraflix - partes 1 e 2](https://codepen.io/mipt/pen/wvxQqNW)
 
 ## Licença
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
