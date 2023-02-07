@@ -2,6 +2,8 @@
 
 Projeto desenvolvido pelos cinco dias de imersão pelo evento [Imersão Dev](https://imersao.dev/) da empresa **[Alura](https://alura.com.br/)**.
 
+<div align='center' style='display: inline_block'><img src='https://imgur.com/18JXOxw.gif'></div>
+
 ## Sobre o projeto
 Foi criado a partir dos desafios da semana da Imersão Dev. Nesta edição, focamos em front-end, contando com as linguagens CSS, HTML e JavaScript. Utilizamos a tecnologia CodePen para hospedar os códigos.
 
